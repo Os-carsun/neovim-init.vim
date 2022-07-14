@@ -5,7 +5,7 @@
 # Installs neovim and all necessary dependencies for Optixal's neovim-init.vim. Does not check if dependencies have already been installed. Highly recommended to go through each command and run them manually instead of using this convenience script, especially if you are running macOS or other Linux distros. For macOS, use homebrew instead of apt.
 
 # Vars used when downloading and installing neovim and dependencies
-NEOVIM_VERSION=0.7.0
+NEOVIM_VERSION=0.7.2
 NVM_VERSION=0.39.1
 NODE_VERSION=18.0.0
 LUA_PATH=/usr/local/share/lua/5.1
