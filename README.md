@@ -1,4 +1,5 @@
-# Optixal's Neovim init.vim
+# Oscar's Neovim init.vim
+# Fork from Optixal's Neovim init.vim
 
 ![image](https://user-images.githubusercontent.com/19287477/167697617-3b26ac45-2a86-436d-af7a-93968467e82c.png)
 _Windows 10, Ubuntu WSL - Windows Terminal_
@@ -17,7 +18,7 @@ The colorsheme used is my favorite, [Dracula](https://github.com/dracula/vim), a
 ### Automated Installation
 
 ```sh
-git clone https://github.com/Optixal/neovim-init.vim.git
+git clone https://github.com/Os-carsun/neovim-init.vim.git
 cd neovim-init.vim/convenience
 ./install.sh
 ```
